@@ -1,4 +1,4 @@
-// Criei uma variavel inicial e final.
+// Criei mais algumas variáveis 
 let a = 10;
 let b = 1;
 let inicio = 0;
