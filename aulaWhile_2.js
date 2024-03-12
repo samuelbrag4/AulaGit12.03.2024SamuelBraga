@@ -1,4 +1,5 @@
 // Criei uma variavel inicial e final.
+let a = 10;
 let inicio = 0;
 let fim = 0;
 
