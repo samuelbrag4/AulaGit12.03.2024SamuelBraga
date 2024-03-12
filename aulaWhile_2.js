@@ -12,3 +12,5 @@ while (inicio <= fim) {
 // Depois que while, terminou. Ou seja, vai para a proxima
 // Linha
 console.log("terminou");
+
+console.log('Teste');
