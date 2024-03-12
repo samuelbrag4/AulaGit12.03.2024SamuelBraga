@@ -1,6 +1,6 @@
-// Criei uma variavel inicial valendo 1.
+// Criei uma variavel inicial e final.
 let inicio = 0;
-let fim = 10;
+let fim = 0;
 
 // Realizo o looping while/enquanto.
 while (inicio <= fim) {
