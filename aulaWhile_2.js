@@ -12,6 +12,7 @@ if (a >= b) {
     inicio = a;
     fim = b;
 }
+
 // Realizo o looping while/enquanto.
 while (inicio <= fim) {
     // Faco a minha logica aqui.
@@ -19,8 +20,6 @@ while (inicio <= fim) {
     inicio++;
 }
 
-// Depois que while, terminou. Ou seja, vai para a proxima
-// Linha
+// Exibo as mensagens
 console.log("terminou");
-
 console.log('Teste');
