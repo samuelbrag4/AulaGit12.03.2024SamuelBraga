@@ -22,3 +22,4 @@ while (inicio <= fim) {
 
 // Exibo as mensagens
 console.log("terminou");
+console.log("troque os números para ver o comando funcionando novamente :)");
