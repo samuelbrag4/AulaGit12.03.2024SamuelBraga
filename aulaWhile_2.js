@@ -22,4 +22,3 @@ while (inicio <= fim) {
 
 // Exibo as mensagens
 console.log("terminou");
-console.log('Teste');
